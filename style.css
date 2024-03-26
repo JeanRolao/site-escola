@@ -2,5 +2,5 @@ body{
   background-color: #383D58;
 }
 ul{
-  display: inline;
+  display: inline-block;
 }
