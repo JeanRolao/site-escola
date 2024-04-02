@@ -1,6 +1,8 @@
 body{
   background-color: #383D58;
-}
-ul{
-  display: inline-block;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items:center;
+  padding: : 24px 0;
 }
